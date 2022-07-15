@@ -1,0 +1,19 @@
+{
+  "name": "solita-academy",
+  "version": "1.0.0",
+  "description": "Dev Academy pre-assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hasankc/Dev-Academy-pre-assignment-.git"
+  },
+  "author": "Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasankc/Dev-Academy-pre-assignment-/issues"
+  },
+  "homepage": "https://github.com/Hasankc/Dev-Academy-pre-assignment-#readme"
+}
